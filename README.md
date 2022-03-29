@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=lucasferne&color=blue&style=for-the-badge)
 
-⛩️ **Computer Engineering student trying to be better everyday** ⛩️
+**Computer Engineering**
 
-## About me 
+-- About me 
 * **Name**: Lucas Ferreira;
 * **Age**: 22;
 * **Lives in**: Minas Gerais, Brazil;
