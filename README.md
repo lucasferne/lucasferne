@@ -1,5 +1,5 @@
 ### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!👋+I'm+Lucas!&size=22)](https://git.io/typing-svg) </h1>
-<img align="right" src="https://thumbs.gfycat.com/WellmadePlumpGerbil-mobile.mp4" width="300" />
+<img align="right" src="https://64.media.tumblr.com/ffb001c65104d50d59aa9950b6aec9c1/dadb42c2e1112fa3-a7/s540x810/91acb5b31b20ff62d9a94fa0fba766219df007c9.gifv" width="300" />
 
 ![](https://komarev.com/ghpvc/?username=lucasferne&color=blue&style=for-the-badge)
 
