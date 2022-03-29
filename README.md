@@ -1,5 +1,5 @@
 ### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!👋+I'm+Lucas!&size=22)](https://git.io/typing-svg) </h1>
-<img align="right" src="https://br.pinterest.com/pin/305400418485579690/" width="300" />
+<img align="right" src="https://gfycat.com/wellmadeplumpgerbil" width="300" />
 
 ![](https://komarev.com/ghpvc/?username=lucasferne&color=blue&style=for-the-badge)
 
