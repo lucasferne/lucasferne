@@ -8,8 +8,8 @@
 * **Age**: 23;
 * **Lives in**: Minas Gerais, Brazil;
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Blade, C++, Python; \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: Javascript, PHP; \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Blade, C++, Python, Javascript, PHP; \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: React; \
  } 
 
 -- Hobbies
