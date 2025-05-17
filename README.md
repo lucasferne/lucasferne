@@ -5,8 +5,8 @@
 
 **Future Computer Engineering**
 
-* **Age**: 23;
-* **Lives in**: Minas Gerais, Brazil;
+* **Age**: 25;
+* **Lives in**: Guanambi - BA, Brazil;
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Blade, C++, Python, Javascript, PHP; \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: React; \
