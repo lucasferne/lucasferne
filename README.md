@@ -8,8 +8,7 @@
 * **Age**: 26;
 * **Lives in**: Taiobeiras - MG, Brazil;
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Blade, C++, Python, Javascript, PHP; \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: React; \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Blade, C++, Python, Javascript, PHP, Angular;
  } 
 
 -- Hobbies
