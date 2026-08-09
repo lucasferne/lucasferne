@@ -1,9 +1,7 @@
 ### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=797979&center=true&vCenter=true&lines=Welcome%2C+I'm+Lucas!)](https://git.io/typing-svg) </h1>
 <img align="right" src="https://64.media.tumblr.com/ffb001c65104d50d59aa9950b6aec9c1/dadb42c2e1112fa3-a7/s540x810/91acb5b31b20ff62d9a94fa0fba766219df007c9.gifv" style="width: 100; height: 200;" />
 
-![](https://komarev.com/ghpvc/?username=lucasferne&color=green&style=for-the-badge)
-
-**Future Computer Engineering**
+**Computer Engeneer**
 
 * **Age**: 26;
 * **Lives in**: Taiobeiras - MG, Brazil;
